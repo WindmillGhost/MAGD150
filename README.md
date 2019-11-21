@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# MAGD150
+## Sketch 2
+The prompt of this sketch was "space," so I made a UFO. I like the colors of this one.
 
-You can use the [editor on GitHub](https://github.com/WindmillGhost/MAGD150/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+## Sketch 5
+The prompt was "television," but I was in a Halloween mood, so I made a _hauuunted_ television. You can turn the TV on and change the channel, which results in blood, static, or a spooky face. I'm still pretty proud of the effects I did for the different channels. This also might be the most functional interactivity in any of these, with the different buttons on the remote.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Sketch 6
+The prompt was "retro games," and I wanted to make another haunted thing. If you click on the arcade capinet, the character on the screen gets bigger until it fills the screen and its eye turns black, at which point it stops moving. This is probably my favorite, despite the simplicity.
 
-### Markdown
+## Sketch 8
+The prompt was "movie posters," so I recreated the Jaws poster, but added text relating to the "Jaws effect," a topic I find interesting. Unfortunately, I encountered some problems getting the text to display. The shark movement works properly, though, with the head shaking to the movement of the mouse.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WindmillGhost/MAGD150/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Sketch 9
+The prompt was "mirror," so I setup a scene with two sprites of a character, so it looks like they're casting a reflection in a mirror. You can control the character with the A and D keys, and it's set up for a sound to play the first time the character passes by their reflection. Unfortunately, while the sprites change properly to show walking in different directions, the GIFs didn't animate properly.
